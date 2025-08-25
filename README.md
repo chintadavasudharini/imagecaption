@@ -4,6 +4,10 @@
 A small, CPU-friendly image captioning app using **Salesforce/blip-image-captioning-base**.
 Built with **Streamlit** + **Hugging Face Transformers**. Perfect for **Render free tier**.
 
+##  Live Demo  
+Check it out: [PixCaption AI Live App](https://chintadavasudharini-imagecaption.streamlit.app/)  
+
+
 ## Quick Start (Local)
 
 ```bash
