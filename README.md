@@ -299,17 +299,11 @@ Python Full Stack Developer | AWS | AI-ML
 
 📍 KL University | B.Tech Computer Science Engineering
 
-🔗 GitHub
-https://github.com/chintadavasudharini
+- **GitHub:** [@chintadavasudharini](https://github.com/chintadavasudharini)
+- **LinkedIn:** [Chintada Vasudharini](https://www.linkedin.com/in/chintada-vasudharini-nov21/)
+- **Email:** [chintadavasudharini@gmail.com](mailto:chintadavasudharini@gmail.com)
+- **Personal Portfolio:** [Visit Here](https://portfolio-lime-tau-36.vercel.app/)
 
-🔗 LinkedIn
-https://www.linkedin.com/in/chintada-vasudharini-nov21/
-
-📧 Email
-[chintadavasudharini@gmail.com](mailto:chintadavasudharini@gmail.com)
-
-🌐 Portfolio
-https://portfolio-lime-tau-36.vercel.app/
 
 ---
 
