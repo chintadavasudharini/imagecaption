@@ -1,12 +1,16 @@
 # 🚀 PixCaption AI
 
-### Lightweight AI-Powered Image Captioning System using BLIP
-
+### Lightweight AI-Powered Image Captioning System using BLIP Vision-Language Model
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge\&logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-red?style=for-the-badge\&logo=streamlit)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-orange?style=for-the-badge\&logo=pytorch)
-![AI](https://img.shields.io/badge/AI-Image%20Captioning-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+
+🌐 Live App:
+https://chintadavasudharini-imagecaption.streamlit.app/
+
 
 ---
 
